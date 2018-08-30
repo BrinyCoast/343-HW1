@@ -5,3 +5,5 @@ Git commit -m will add a message about the file.
 Git checkout -b will create a new branch and will move you to that branch.
 Git branch will allow you to add to a project without affecting the previous working project.
 Git push will take the files that you added and cmmitted to GitHub.
+Git pull will take the updates on GitHub and copy it to your computer.
+
